@@ -10,6 +10,9 @@ font-family: 'Satisfy', cursive;
 body {
     background-color: #87431d;
 }
+.bold {
+    font-weight: bold;
+}
 /*Navigation*/
 .img-brand {
     width: 50px;
