@@ -7,6 +7,9 @@ Font Families---
 font-family: 'Overpass', sans-serif;
 font-family: 'Satisfy', cursive;
 */
+html {
+    scroll-behavior: smooth;
+}
 body {
     background-color: #87431d;
 }
